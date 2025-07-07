@@ -1,4 +1,3 @@
-# Hand_Ninja
 🥷 Hand_Ninja
 **HandNinja** is a gesture-controlled, Fruit Ninja-inspired game that lets you slice fruits mid-air using just your hand—no controllers needed. Powered by Python, OpenCV, and MediaPipe, the game tracks your hand movements in real time via webcam. With quick and precise finger swipes, you can slash falling fruits before they hit the ground—the sharper your reflexes, the higher your score!
 
